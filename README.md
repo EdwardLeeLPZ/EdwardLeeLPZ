@@ -39,7 +39,7 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
   - Machine Learning / Deep Learning
 - 📫 How to reach me: [edwardleelpz.github.io](https://edwardleelpz.github.io/)
 
-## Tech & Tools Preference 🛠️
+## 🛠️ Tech & Tools Preference 
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=google-colab&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
@@ -52,11 +52,11 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
 <img src="https://img.shields.io/badge/-MMDetection-brightgreen?style=flat">
 <img src="https://img.shields.io/badge/-Detectron2-blue?style=flat">
 
-## Languages 💻
+## 💻 Languages 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 
-## Statistics 📈
+## 📈 Statistics
 <a href="https://github.com/EdwardLeeLPZ/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardLeeLPZ&layout=compact" height="150" />
 </a>
