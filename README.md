@@ -56,6 +56,11 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 
+## 📚 Publications
+1. [**PowerBEV: A Powerful yet Lightweight Framework for Instance Prediction in Bird's-Eye View**](https://www.ijcai.org/proceedings/2023/0120.pdf)  
+   [_Peizheng Li_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://scholar.google.com/citations?user=QPLytlUAAAAJ&hl=en&oi=ao), [_Xieyuanli Chen_](https://xieyuanli-chen.com/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao)  
+   In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI-23, Aug 2023  
+
 ## 📈 Statistics
 <a href="https://github.com/EdwardLeeLPZ/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardLeeLPZ&layout=compact" height="150" />
