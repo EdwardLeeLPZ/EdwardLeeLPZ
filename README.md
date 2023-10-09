@@ -31,7 +31,7 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
 
 - 🔭 I’m currently working on Open World Model for Autonomous Driving
 - 🌱 I’m currently learning how to produce high quality research
-- 👯 I'm looking for collaboration in computer vision, LIDAR, autonomous driving, etc.
+- 👯 I'm looking for collaboration in computer vision, LiDAR, autonomous driving, etc.
 - 💬 Ask me about
   - Perception and Prediction
   - Autonomous Driving
