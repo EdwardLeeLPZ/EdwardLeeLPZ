@@ -27,7 +27,7 @@
 </a>
 </p>
 
-Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Group at [Mercedes-Benz R&D](https://www.mercedes-benz.com/en/), as well as the [Explainable Machine Learning Group](https://www.eml-unitue.de/) at [University of Tübingen](https://uni-tuebingen.de/en), where I am advised by [Prof. Zeynep Akata](https://www.eml-unitue.de/people/zeynep-akata).
+Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Group at [Mercedes-Benz R&D](https://www.mercedes-benz.com/en/), as well as the [Cognitive Systems Group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/) at [University of Tübingen](https://uni-tuebingen.de/en), where I am advised by [Prof. Andreas Zell](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/).
 
 - 🔭 I’m currently working on Open World Model for Autonomous Driving
 - 🌱 I’m currently learning how to produce high quality research
@@ -59,7 +59,10 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
 ## 📚 Publications
 1. [**PowerBEV: A Powerful yet Lightweight Framework for Instance Prediction in Bird's-Eye View**](https://www.ijcai.org/proceedings/2023/0120.pdf)  
    [_Peizheng Li_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://scholar.google.com/citations?user=QPLytlUAAAAJ&hl=en&oi=ao), [_Xieyuanli Chen_](https://xieyuanli-chen.com/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao)  
-   In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI-23, Aug 2023  
+   In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence(IJCAI), 2023
+2. [**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**](https://link.springer.com/chapter/10.1007/978-3-031-73232-4_20)  
+   [ Qingwen Zhang ](https://kin-zhang.github.io/), [ Yi Yang ](https://www.kth.se/profile/yiya?l=en), [_Peizheng Li_](https://edwardleelpz.github.io/), [ Olov Andersson ](https://www.kth.se/profile/olovand), [ Patric Jensfelt ](https://www.kth.se/profile/patric)  
+   In European Conference on Computer Vision(ECCV), 2024
 
 ## 📈 Statistics
 <a href="https://github.com/EdwardLeeLPZ/github-readme-stats">
