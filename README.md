@@ -61,7 +61,7 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
    [_Peizheng Li_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://scholar.google.com/citations?user=QPLytlUAAAAJ&hl=en&oi=ao), [_Xieyuanli Chen_](https://xieyuanli-chen.com/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao)  
    In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence(IJCAI), 2023
 2. [**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**](https://link.springer.com/chapter/10.1007/978-3-031-73232-4_20)  
-   [ Qingwen Zhang ](https://kin-zhang.github.io/), [ Yi Yang ](https://www.kth.se/profile/yiya?l=en), [_Peizheng Li_](https://edwardleelpz.github.io/), [ Olov Andersson ](https://www.kth.se/profile/olovand), [ Patric Jensfelt ](https://www.kth.se/profile/patric)  
+   [_Qingwen Zhang_](https://kin-zhang.github.io/), [_Yi Yang_](https://www.kth.se/profile/yiya?l=en), [_Peizheng Li_](https://edwardleelpz.github.io/), [_Olov Andersson_](https://www.kth.se/profile/olovand), [_Patric Jensfelt_](https://www.kth.se/profile/patric)  
    In European Conference on Computer Vision(ECCV), 2024
 
 ## 📈 Statistics
