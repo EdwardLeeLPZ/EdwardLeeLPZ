@@ -27,7 +27,7 @@
 </a>
 </p>
 
-Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Group at [Mercedes-Benz R&D](https://www.mercedes-benz.com/en/), as well as the [Cognitive Systems Group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/) at [University of Tübingen](https://uni-tuebingen.de/en), where I am advised by [Prof. Andreas Zell](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/).
+Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Group at [Mercedes-Benz R&D](https://www.mercedes-benz.com/en/), as well as the [Cognitive Systems Group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/) at [University of Tübingen](https://uni-tuebingen.de/en), where I am advised by [Prof. Andreas Geiger](https://www.cvlibs.net/) and [Prof. Andreas Zell](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/).
 
 - 🔭 I’m currently working on Open World Model for Autonomous Driving
 - 🌱 I’m currently learning how to produce high quality research
@@ -57,12 +57,22 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
 
 ## 📚 Publications
-1. [**PowerBEV: A Powerful yet Lightweight Framework for Instance Prediction in Bird's-Eye View**](https://www.ijcai.org/proceedings/2023/0120.pdf)  
-   [_Peizheng Li_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://scholar.google.com/citations?user=QPLytlUAAAAJ&hl=en&oi=ao), [_Xieyuanli Chen_](https://xieyuanli-chen.com/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao)  
-   In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence(IJCAI), 2023
+1. [**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**](https://arxiv.org/abs/2504.10117)  
+   [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://dsx0511.github.io/), [_You Zhou_](https://scholar.google.com/citations?user=DAuIVp8AAAAJ&hl=en), [_Qingwen Zhang_](https://kin-zhang.github.io/), [_Onat Inak_](https://openreview.net/profile?id=%7EOnat_Inak1), [_Larissa Triess_](https://larissa.triess.eu/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Andreas Zell_](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
+   In International Conference on Computer Vision (ICCV), 2025  
 2. [**SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving**](https://link.springer.com/chapter/10.1007/978-3-031-73232-4_20)  
-   [_Qingwen Zhang_](https://kin-zhang.github.io/), [_Yi Yang_](https://www.kth.se/profile/yiya?l=en), [_Peizheng Li_](https://edwardleelpz.github.io/), [_Olov Andersson_](https://www.kth.se/profile/olovand), [_Patric Jensfelt_](https://www.kth.se/profile/patric)  
-   In European Conference on Computer Vision(ECCV), 2024
+   [_Qingwen Zhang_](https://kin-zhang.github.io/), [_Yi Yang_](https://www.kth.se/profile/yiya?l=en), [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Olov Andersson_](https://www.kth.se/profile/olovand), [_Patric Jensfelt_](https://www.kth.se/profile/patric)  
+   In European Conference on Computer Vision (ECCV), 2024  
+3. [**PowerBEV: A Powerful yet Lightweight Framework for Instance Prediction in Bird's-Eye View**](https://www.ijcai.org/proceedings/2023/0120.pdf)  
+   [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://dsx0511.github.io/), [_Xieyuanli Chen_](https://xieyuanli-chen.com/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao)  
+   In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023  
+4. [**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**](https://arxiv.org/abs/2504.03258)  
+   [_Shuxiao Ding_](https://dsx0511.github.io/), [_Yutong Yang_](https://scholar.google.com/citations?user=kg9OvU0AAAAJ&hl=en), [_Julian Wiederer_](https://scholar.google.com/citations?user=YRAtWesAAAAJ&hl=en), _Markus Braun_,  [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao), [_Bin Yang_](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/)  
+   arXiv preprint arXiv:2504.03258, 2025  
+6. [**FAM-HRI: Foundation-Model Assisted Multi-Modal Human-Robot Interaction Combining Gaze and Speech**](https://arxiv.org/abs/2503.16492)  
+   [_Yuzhi Lai_](https://scholar.google.com/citations?user=9Z6Gjo4AAAAJ&hl=en), [_Shenghai Yuan_](https://scholar.google.com/citations?user=XcV_sesAAAAJ&hl=en), [_Boya Zhang_](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/boya-zhang/), [_Benjamin Kiefer_](https://scholar.google.com/citations?user=IgH9QkEAAAAJ&hl=en), [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Andreas Zell_](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
+   arXiv preprint arXiv:2503.16492, 2025
+
 
 ## 📈 Statistics
 <a href="https://github.com/EdwardLeeLPZ/github-readme-stats">
