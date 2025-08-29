@@ -65,14 +65,16 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
    In European Conference on Computer Vision (ECCV), 2024  
 3. [**PowerBEV: A Powerful yet Lightweight Framework for Instance Prediction in Bird's-Eye View**](https://www.ijcai.org/proceedings/2023/0120.pdf)  
    [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://dsx0511.github.io/), [_Xieyuanli Chen_](https://xieyuanli-chen.com/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao)  
-   In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), 2023  
+   In International Joint Conference on Artificial Intelligence (IJCAI), 2023  
 4. [**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**](https://arxiv.org/abs/2504.03258)  
    [_Shuxiao Ding_](https://dsx0511.github.io/), [_Yutong Yang_](https://scholar.google.com/citations?user=kg9OvU0AAAAJ&hl=en), [_Julian Wiederer_](https://scholar.google.com/citations?user=YRAtWesAAAAJ&hl=en), _Markus Braun_,  [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao), [_Bin Yang_](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/)  
    arXiv preprint arXiv:2504.03258, 2025  
 6. [**FAM-HRI: Foundation-Model Assisted Multi-Modal Human-Robot Interaction Combining Gaze and Speech**](https://arxiv.org/abs/2503.16492)  
    [_Yuzhi Lai_](https://scholar.google.com/citations?user=9Z6Gjo4AAAAJ&hl=en), [_Shenghai Yuan_](https://scholar.google.com/citations?user=XcV_sesAAAAJ&hl=en), [_Boya Zhang_](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/boya-zhang/), [_Benjamin Kiefer_](https://scholar.google.com/citations?user=IgH9QkEAAAAJ&hl=en), [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Andreas Zell_](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
    arXiv preprint arXiv:2503.16492, 2025
-
+6. [**FAM-HRI: Foundation-Model Assisted Multi-Modal Human-Robot Interaction Combining Gaze and Speech**](https://arxiv.org/abs/2508.17255)  
+   [_Yuzhi Lai_](https://scholar.google.com/citations?user=9Z6Gjo4AAAAJ&hl=en), [_Shenghai Yuan_](https://scholar.google.com/citations?user=XcV_sesAAAAJ&hl=en), [_**Peizheng Li**_](https://edwardleelpz.github.io/), _Jun Lou_, [_Andreas Zell_](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
+   arXiv preprint arXiv:2508.17255, 2025
 
 ## 📈 Statistics
 <a href="https://github.com/EdwardLeeLPZ/github-readme-stats">
