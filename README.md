@@ -30,10 +30,10 @@
 Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Group at [Mercedes-Benz R&D](https://www.mercedes-benz.com/en/), as well as the [Cognitive Systems Group](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/) at [University of Tübingen](https://uni-tuebingen.de/en), where I am advised by [Prof. Andreas Geiger](https://www.cvlibs.net/) and [Prof. Andreas Zell](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/).
 
 - 🔭 I’m currently working on Open World Model for Autonomous Driving
-- 🌱 I’m currently learning how to produce high quality research
-- 👯 I'm looking for collaboration in computer vision, LiDAR, autonomous driving, etc.
+- 👯 I'm looking for collaboration in computer vision, foundation model, autonomous driving, etc.
 - 💬 Ask me about
-  - Perception and Prediction
+  - VLM / VLA
+  - World Model
   - Autonomous Driving
   - Un- / Self-supervised Learning
   - Machine Learning / Deep Learning
@@ -66,20 +66,23 @@ Hey there👋 This is Peizheng Li, a PhD student with the Scene Understanding Gr
 3. [**PowerBEV: A Powerful yet Lightweight Framework for Instance Prediction in Bird's-Eye View**](https://www.ijcai.org/proceedings/2023/0120.pdf)  
    [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Shuxiao Ding_](https://dsx0511.github.io/), [_Xieyuanli Chen_](https://xieyuanli-chen.com/), [_Niklas Hanselmann_](https://lasnik.github.io/), [_Marius Cordts_](https://scholar.google.com/citations?user=RM0ik8wAAAAJ&hl=en&oi=ao), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao)  
    In International Joint Conference on Artificial Intelligence (IJCAI), 2023  
-4. [**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**](https://arxiv.org/abs/2504.03258)  
+4. [**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**](https://arxiv.org/abs/2512.10719)  
+   [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Zhenghao Zhang_](https://zhenghao2519.github.io/), [_David Holtz_](https://scholar.google.com/citations?user=gf09DbwAAAAJ&hl=en&oi=sra), [_Hang Yu_](https://scholar.google.com/citations?user=yEY9n1EAAAAJ&hl=en), [_Yutong Yang_](https://scholar.google.com/citations?user=kg9OvU0AAAAJ&hl=en), [_Yuzhi Lai_](https://scholar.google.com/citations?user=9Z6Gjo4AAAAJ&hl=en), [_Rui Song_](https://rruisong.github.io/), [_Andreas Geiger_](https://www.cvlibs.net/), [_Andreas Zell_](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
+   arXiv preprint arXiv:2512.10719, 2025  
+6. [**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**](https://arxiv.org/abs/2504.03258)  
    [_Shuxiao Ding_](https://dsx0511.github.io/), [_Yutong Yang_](https://scholar.google.com/citations?user=kg9OvU0AAAAJ&hl=en), [_Julian Wiederer_](https://scholar.google.com/citations?user=YRAtWesAAAAJ&hl=en), _Markus Braun_,  [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Jürgen Gall_](https://scholar.google.com/citations?user=1CLaPMEAAAAJ&hl=en&oi=ao), [_Bin Yang_](https://www.iss.uni-stuttgart.de/institut/team/Yang-00004/)  
    arXiv preprint arXiv:2504.03258, 2025  
-6. [**FAM-HRI: Foundation-Model Assisted Multi-Modal Human-Robot Interaction Combining Gaze and Speech**](https://arxiv.org/abs/2503.16492)  
+7. [**FAM-HRI: Foundation-Model Assisted Multi-Modal Human-Robot Interaction Combining Gaze and Speech**](https://arxiv.org/abs/2503.16492)  
    [_Yuzhi Lai_](https://scholar.google.com/citations?user=9Z6Gjo4AAAAJ&hl=en), [_Shenghai Yuan_](https://scholar.google.com/citations?user=XcV_sesAAAAJ&hl=en), [_Boya Zhang_](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/boya-zhang/), [_Benjamin Kiefer_](https://scholar.google.com/citations?user=IgH9QkEAAAAJ&hl=en), [_**Peizheng Li**_](https://edwardleelpz.github.io/), [_Andreas Zell_](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
    arXiv preprint arXiv:2503.16492, 2025
-6. [**FAM-HRI: Foundation-Model Assisted Multi-Modal Human-Robot Interaction Combining Gaze and Speech**](https://arxiv.org/abs/2508.17255)  
+8. [**SEER-VAR: Semantic Egocentric Environment Reasoner for Vehicle Augmented Reality**](https://arxiv.org/abs/2508.17255)  
    [_Yuzhi Lai_](https://scholar.google.com/citations?user=9Z6Gjo4AAAAJ&hl=en), [_Shenghai Yuan_](https://scholar.google.com/citations?user=XcV_sesAAAAJ&hl=en), [_**Peizheng Li**_](https://edwardleelpz.github.io/), _Jun Lou_, [_Andreas Zell_](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/the-chair/staff/prof-dr-andreas-zell/)  
    arXiv preprint arXiv:2508.17255, 2025
 
 ## 📈 Statistics
 <a href="https://github.com/EdwardLeeLPZ/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardLeeLPZ&layout=compact" height="150" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EdwardLeeLPZ&layout=compact" height="150" />
 </a>
 <a href="https://github.com/EdwardLeeLPZ/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=EdwardLeeLPZ&show_icons=true&theme=tokyonight" height="150" />
-</a>  
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdwardLeeLPZ&show_icons=true&theme=tokyonight" height="150" />
+</a>
