@@ -32,17 +32,17 @@ I am a PhD researcher at the [University of Tübingen](https://uni-tuebingen.de/
 
 ## 🔬 Research Focus
 
-- **Spatially Grounded Autonomy** — 3D/4D perception, physical scene modeling, and spatial reasoning for autonomous agents
-- **Open-World 3D Scene Understanding** — open-vocabulary occupancy prediction and long-tail physical-world perception
-- **VLM/VLA for Autonomous Driving** — injecting explicit spatial representations into vision-language models for robust driving decisions
-- **Self-Supervised 3D Dynamics** — scene flow estimation, motion understanding, and scalable learning from real-world driving data
+- **3D World Modeling** — 3D/4D physical scene modeling that encode geometry, semantics, and dynamics for open world
+- **Spatial Intelligence for VLM/VLA** — spatial awareness into VLM/VLA and physically-consistent 3D reasoning
+- **Self-Supervised 3D Dynamics** — scene flow estimation, motion understanding, and scalable learning from real-world data
+- **Embodied Robotics** — foundation-model-driven multimodal interaction for robot-human-collaboration in physical environments
 
 ## 📚 Publications
 
 **[SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](https://arxiv.org/abs/2512.10719)**  
 <font color="gray"><i> Infusing explicit spatial representations into vision-language models for robust autonomous driving with 3D spatial reasoning.</i></font>  
 <b><u>Peizheng Li</u></b>, Zhenghao Zhang, David Holtz, Hang Yu, Yutong Yang, Yuzhi Lai, Rui Song, Andreas Geiger, Andreas Zell  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026**)* &nbsp;·&nbsp; 🏆 **#1 on nuScenes** &nbsp;·&nbsp; **#2 closed-loop** on Bench2Drive  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026**)* &nbsp;·&nbsp; 🏆 **#1 on nuScenes** &nbsp;·&nbsp; **#2 on Bench2Drive**   
 
 **[AGO: Adaptive Grounding for Open World 3D Occupancy Prediction](https://arxiv.org/abs/2504.10117)**  
 <font color="gray"><i>Adaptive grounding framework that bridges 2D vision-language features to open-world 3D occupancy prediction without manual vocabulary.</i></font>  
@@ -81,7 +81,7 @@ Yuzhi Lai, Shenghai Yuan, <b><u>Peizheng Li</u></b>, Jun Lou, Andreas Zell
 
 ## 📰 Recent News
 
-- **Feb 2026** &nbsp;— SpaceDrive accepted at **CVPR 2026** 🎉 &nbsp;·&nbsp; #1 nuScenes &nbsp;·&nbsp; #2 Bench2Drive closed-loop
+- **Feb 2026** &nbsp;— SpaceDrive accepted at **CVPR 2026** 🎉 &nbsp;·&nbsp; #1 nuScenes open-loop &nbsp;·&nbsp; #2 Bench2Drive closed-loop
 - **Jun 2025** &nbsp;— AGO accepted at **ICCV 2025** 🎉
 - **Jul 2024** &nbsp;— SeFlow accepted at **ECCV 2024** 🎉 &nbsp;·&nbsp; #1 Argoverse 2 self-supervised scene flow
 - **Apr 2023** &nbsp;— PowerBEV accepted at **IJCAI 2023** 🎉
